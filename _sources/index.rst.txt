@@ -3,7 +3,7 @@ DCCS US Bylaws
 #########################
 
 .. toctree::
-    :maxdepth: 5
+    :maxdepth: 10
     :numbered:
     :caption: ARTICLES
 
