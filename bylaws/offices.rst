@@ -1,10 +1,15 @@
-#####
+.. sectnum::
+
+#######
 OFFICES
-#####
+#######
 
-.. sectnum::
-    :suffix: REGISTERED OFFICE
+=================
+REGISTERED OFFICE
+=================
 
 
-.. sectnum::
-    :suffix: OTHER OFFICES
+=============
+OTHER OFFICES
+=============
+
