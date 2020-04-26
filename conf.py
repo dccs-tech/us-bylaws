@@ -50,7 +50,7 @@ html_theme_options = {
 
 templates_path = ['_templates']
 html_static_path = ['_static']
-html_logo = "_static/DCCS.png"
+html_logo = "_static/dccs.png"
 html_favicon = "_static/favicon.ico"
 
 html_show_sourcelink = True
@@ -60,4 +60,4 @@ html_split_index = True
 # -- General configuration ------------------------------------------------
 
 def setup(app):
-    app.add_css_file('_css/override.css')
+    app.add_css_file('css/override.css')
