@@ -3,6 +3,13 @@ DCCS US Bylaws
 #########################
 
 .. toctree::
+    :maxdepth: 5
+    :numbered:
+    :caption: ARTICLES
+
+    bylaws/offices
+
+.. toctree::
     :maxdepth: 1
     :caption: Links
 
