@@ -93,8 +93,23 @@ then
     # Replace all files with generated documentation site
     cd "$BUILD_DIR"
     git checkout "$GH_PAGES_BRANCH"
+
+    if [ -f CNAME ]
+    then
+      mv CNAME /tmp
+    fi
+
     rm -Rf *
     mv $SITE_TEMP_DIR/* ./
+
+    if [ -f /tmp/CNAME ]
+    then
+      mv /tmp/CNAME CNAME
+    fi
+
+    # Create empty CircleCI configuration (to prevent failed builds)
+    mkdir .circleci
+    touch .circleci/config.yml
 
     # Disable GitHub Jekyll
     touch .nojekyll
