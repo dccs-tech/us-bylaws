@@ -100,6 +100,7 @@ then
     fi
 
     rm -Rf *
+    rm -Rf .circleci
     mv $SITE_TEMP_DIR/* ./
 
     if [ -f /tmp/CNAME ]
