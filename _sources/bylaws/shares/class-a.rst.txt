@@ -1,13 +1,16 @@
+.. _shares_class_a:
 ##############
 CLASS A SHARES
 ##############
 
+.. _shares_class_a_org_policy:
 -------------------
 ORGANIZATION POLICY
 -------------------
 
 The Corporation shall operate as a C-Corporation that has adopted certain principles of a cooperative. Control shall be allocated between two separate classes of shareholders, with Class A shareholders representing employee shareholders and Class B shareholders representing nonemployee investors and employees who own Class B stock, as described in this Article.
 
+.. _shares_class_a_eligibility:
 -----------------------
 SHAREHOLDER ELIGIBILITY
 -----------------------
@@ -32,24 +35,28 @@ SHAREHOLDER ELIGIBILITY
 
 (E) The Board may not discriminate on the basis of race, age, sex, sexual orientation, religion, disability, pregnancy or maternity, or national origin when considering a person for membership.
 
+.. _shares_class_a_issuance:
 --------------------------
 ISSUANCE OF CLASS A SHARES
 --------------------------
 
 Class A stock shall be issued pursuant to a resolution of the Board of Directors, which shall set forth the voting powers, designations, preferences, other special rights, redemption rights, and qualifications consistent with these bylaws.
 
+.. _shares_class_a_limitations:
 -------------------
 CLASS A LIMITATIONS
 -------------------
 
 Class A shareholders shall be entitled to only one share of Class A stock and one vote for each share of Class A stock held. Only employees of the Corporation who have satisfied the requirements of these bylaws may own such shares. Existing shareholders shall not have any preemptive rights to Class A Stock issued to new Shareholders. A Class A Share is not transferrable and is subject to redemption upon termination of employment.
 
+.. _shares_class_a_voting_rights:
 -------------------------------------
 VOTING RIGHTS OF CLASS A SHAREHOLDERS
 -------------------------------------
 
 Except as provided for in these bylaws, any amendments, decisions or changes made on behalf of the Corporation or for the Corporation and proposed to the Corporations’ Class B shareholders must be agreed upon by an affirmative vote of Class A Shareholders, voting separately. Only Class A shareholders shall vote on any decisions regarding mergers, acquisitions or dissolutions.
 
+.. _shares_class_a_special_voting_rights:
 ---------------------------------------------
 SPECIAL VOTING RIGHTS OF CLASS A SHAREHOLDERS
 ---------------------------------------------
@@ -65,18 +72,21 @@ SPECIAL VOTING RIGHTS OF CLASS A SHAREHOLDERS
 
 (C) A majority of the board of directors shall be elected exclusively by Class A Shareholders
 
+.. _shares_class_a_transfer:
 ---------------------
 TRANSFER RESTRICTIONS
 ---------------------
 
 No Class A shares or interest therein may be sold, assigned, or otherwise transferred, voluntarily or involuntarily, by operation of law or otherwise.
 
+.. _shares_class_a_termination:
 ----------------------
 EMPLOYMENT TERMINATION
 ----------------------
 
 No Class A Shareholder shall be terminated involuntarily without written notice and a right to a hearing before an “Appellate Committee” chosen by Class A Shareholders . The committee has a right to determine if said individual may continue with the Corporation as a consultant or terminated. Upon voluntary or involuntary termination of a Class A Shareholder’s employment by the Corporation, except for temporary layoffs or absences, his or her Class A Share shall be recalled and subject to redemption by the Corporation in accordance with the resolution providing for the issue of the Class A share.
 
+.. _shares_class_a_certificates:
 -------------------------------
 CERTIFICATES FOR CLASS A SHARES
 -------------------------------
