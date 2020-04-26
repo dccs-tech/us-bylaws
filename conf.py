@@ -12,7 +12,7 @@ extensions = [
 ]
 
 source_suffix = '.rst'
-master_doc = 'index'
+master_doc = 'bylaws/index'
 
 project = 'DCCS US Draft Bylaws'
 copyright = '2020, DCCS Corporation'
