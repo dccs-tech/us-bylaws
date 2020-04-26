@@ -1,7 +1,9 @@
+.. _offices:
 #######
 OFFICES
 #######
 
+.. _offices_registered:
 =================
 REGISTERED OFFICE
 =================
@@ -9,6 +11,7 @@ REGISTERED OFFICE
 The registered office of the Corporation shall be at such location as established in the Certificate
 of Incorporation, as the same may be amended from time to time.
 
+.. _offices_other:
 =============
 OTHER OFFICES
 =============
