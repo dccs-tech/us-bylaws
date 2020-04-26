@@ -3,7 +3,7 @@ SHARE CLASSES
 #############
 
 .. toctree::
-    :maxdepth: 5
+    :maxdepth: 10
 
     class-a
     class-b
