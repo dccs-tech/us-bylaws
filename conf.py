@@ -37,7 +37,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 html_theme_options = {
     'logo_only': False,
-    'display_version': True,
+    'display_version': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
     'style_nav_header_background': '#021026',
