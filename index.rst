@@ -8,6 +8,7 @@ DCCS US Bylaws
     :caption: ARTICLES
 
     bylaws/offices
+    bylaws/shares/index
 
 .. toctree::
     :maxdepth: 1
