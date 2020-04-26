@@ -2,7 +2,6 @@ import os
 import sphinx_rtd_theme
 
 DOCS_DIR = os.path.dirname(__file__)
-VERSION_PY_PATH = os.path.join(DOCS_DIR, 'version.py')
 
 # -- General configuration ------------------------------------------------
 
@@ -18,12 +17,6 @@ master_doc = 'index'
 project = 'DCCS US Draft Bylaws'
 copyright = '2020, DCCS Corporation'
 author = 'dccs.tech'
-
-_globs = {}
-exec(open(VERSION_PY_PATH).read(), _globs)
-version = _globs['VERSION']
-release = version
-del _globs
 
 language = 'en'
 exclude_patterns = ['_build']
