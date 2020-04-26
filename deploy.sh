@@ -112,10 +112,10 @@ then
     mkdir .circleci
     cat > .circleci/config.yml <<END
 version: 2
-  jobs:
-    build:
-      branches:
-        ignore: $GH_PAGES_BRANCH
+jobs:
+  build:
+    branches:
+      ignore: $GH_PAGES_BRANCH
 END
 
     # Disable GitHub Jekyll
