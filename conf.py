@@ -2,8 +2,7 @@ import os
 import sphinx_rtd_theme
 
 DOCS_DIR = os.path.dirname(__file__)
-BASE_DIR = os.path.dirname(DOCS_DIR)
-VERSION_PY_PATH = os.path.join(BASE_DIR, 'version.py')
+VERSION_PY_PATH = os.path.join(DOCS_DIR, 'version.py')
 
 # -- General configuration ------------------------------------------------
 
