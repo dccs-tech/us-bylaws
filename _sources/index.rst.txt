@@ -7,8 +7,8 @@ DCCS US Bylaws
     :numbered:
     :caption: ARTICLES
 
-    bylaws/offices
-    bylaws/shares/index
+    articles/offices
+    articles/shares/index
 
 .. toctree::
     :maxdepth: 1
