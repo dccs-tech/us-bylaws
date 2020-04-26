@@ -12,25 +12,25 @@ The Corporation shall operate as a C-Corporation that has adopted certain princi
 SHAREHOLDER ELIGIBILITY
 -----------------------
 
-* Ownership of Class A stock shall be limited to natural persons who:
+a) Ownership of Class A stock shall be limited to natural persons who:
 
-    * Have been selected and recommended by the Recommendation Committee to the Board of Directors and have been selected by the Board of Directors as an individual (s) who may qualify for employment;
+    i) Have been selected and recommended by the Recommendation Committee to the Board of Directors and have been selected by the Board of Directors as an individual (s) who may qualify for employment;
 
-    * Are employees of the Corporation through contributions of their labor on a full-time or part-time basis;
+    ii) Are employees of the Corporation through contributions of their labor on a full-time or part-time basis;
 
-    * Have completed a twelve (12) month trial period, beginning on a date mutually agreed upon by the Board of Directors and the Candidate;
+    iii) Have completed a twelve (12) month trial period, beginning on a date mutually agreed upon by the Board of Directors and the Candidate;
 
-    * Have committed themselves and made arrangements within three (3) months of accepting permanent employment to purchase a share of Class A Stock (Class A share); and
+    iv) Have committed themselves and made arrangements within three (3) months of accepting permanent employment to purchase a share of Class A Stock (Class A share); and
 
-    * Have been approved to become a Class A Shareholder by an affirmative vote of at least the majority of the Board of Directors.
+    v) Have been approved to become a Class A Shareholder by an affirmative vote of at least the majority of the Board of Directors.
 
-* The general rule, shall be that if an employee is rejected as a Class A shareholder after the trial period, said employee shall be terminated, unless otherwise decided by a vote of at least the majority of the Board of Directors.
+b) The general rule, shall be that if an employee is rejected as a Class A shareholder after the trial period, said employee shall be terminated, unless otherwise decided by a vote of at least the majority of the Board of Directors.
 
-* The cost and terms of payment for Class A shares shall be determined pursuant to resolution adopted by the Board of Directors.
+c) The cost and terms of payment for Class A shares shall be determined pursuant to resolution adopted by the Board of Directors.
 
-* The Class A Shareholder’s status is effective as of the date the Class A share is purchased in accordance with the terms of these Bylaws.
+d) The Class A Shareholder’s status is effective as of the date the Class A share is purchased in accordance with the terms of these Bylaws.
 
-* The Board may not discriminate on the basis of race, age, sex, sexual orientation, religion, disability, pregnancy or maternity, or national origin when considering a person for membership.
+e) The Board may not discriminate on the basis of race, age, sex, sexual orientation, religion, disability, pregnancy or maternity, or national origin when considering a person for membership.
 
 --------------------------
 ISSUANCE OF CLASS A SHARES
@@ -54,16 +54,16 @@ Except as provided for in these bylaws, any amendments, decisions or changes mad
 SPECIAL VOTING RIGHTS OF CLASS A SHAREHOLDERS
 ---------------------------------------------
 
-* Class A Shareholders shall have special representation and voting rights for the composition of the Board of Directors as provided in this section.
+a) Class A Shareholders shall have special representation and voting rights for the composition of the Board of Directors as provided in this section.
 
-* The number of directors that are Class A Shareholders shall be:
+b) The number of directors that are Class A Shareholders shall be:
 
-    * One, if there are 2 or 3 directors;
-    * Two, if there are 4 or 5 directors;
-    * Three if there are 6 through 8 directors; or
-    * One-third of the directors if there are at least 9 directors; and
+    i) One, if there are 2 or 3 directors;
+    ii) Two, if there are 4 or 5 directors;
+    iii) Three if there are 6 through 8 directors; or
+    iv) One-third of the directors if there are at least 9 directors; and
 
-* A majority of the board of directors shall be elected exclusively by Class A Shareholders
+c) A majority of the board of directors shall be elected exclusively by Class A Shareholders
 
 ---------------------
 TRANSFER RESTRICTIONS
@@ -81,14 +81,14 @@ No Class A Shareholder shall be terminated involuntarily without written notice 
 CERTIFICATES FOR CLASS A SHARES
 -------------------------------
 
-* Stock Certificates for Class A Shares
+a) Stock Certificates for Class A Shares
 
     Stock shall be issued in consecutive order and shall be numbered in the order in which they are issues. Every holder of stock represented by certificates shall be entitled to have a certificate signed by, or in the name of, the corporation by any 2 authorized officers of the corporation representing the number of shares registered in certificate form. Any or all the signatures on the certificate may be a facsimile. The seal of the Corporation shall be affixed to the stock certificate.
 
-* List of Class A Shareholders
+b) List of Class A Shareholders
 
     The Corporation shall maintain an alphabetical record of the names and addresses of its Class A Shareholders  and the number of shares of stock held by each, which shall be maintained and made available in accordance with the Delaware Governing Corporation Law (DGCL).
 
-* Lost Certificates
+c) Lost Certificates
 
     The Corporation may issue a new stock certificate in place of any certificate or certificates previously issued by the Corporation that are alleged to have been lost or destroyed by the certificate holder(s)
