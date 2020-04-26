@@ -107,9 +107,15 @@ then
       mv /tmp/CNAME CNAME
     fi
 
-    # Create empty CircleCI configuration (to prevent failed builds)
+    # Create ignore CircleCI configuration (to prevent failed builds)
     mkdir .circleci
-    touch .circleci/config.yml
+    cat > .circleci/config.yml <<END
+version: 2
+  jobs:
+    build:
+      branches:
+        ignore: $GH_PAGES_BRANCH
+END
 
     # Disable GitHub Jekyll
     touch .nojekyll
