@@ -1,0 +1,16 @@
+# Eclipse project files
+/.project
+/.buildpath
+/.settings
+
+# VSCode files
+/.vscode
+*.code-workspace
+
+# Build files
+/_build/
+/_book/
+
+# Extra files
+/tmp/
+*.log
