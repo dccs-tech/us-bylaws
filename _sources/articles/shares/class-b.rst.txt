@@ -79,8 +79,7 @@ No Class B share, or interest therein, may be sold, assigned, or otherwise trans
      (iv) The certificate or notice shall include a statement of the existence of such restrictions and a statement that the Corporation will provide a copy to the holder upon request and without charge. 
  
  
-     (v)  The certificate or notice shall set forth the full text of any restrictions prescribed. 
-conspicuously on the face or back of the certificate or notice.
+     (v)  The certificate or notice shall set forth the full text of any restrictions prescribed conspicuously on the face or back of the certificate or notice.
 
 
 (2) In case of the loss, destruction, or mutilation of a share certificate or notice a duplicate may be issued in its place, upon such terms as the Board of Directors may 
