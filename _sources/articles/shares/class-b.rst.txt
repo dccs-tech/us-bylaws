@@ -75,7 +75,7 @@ CERTIFICATES FOR CLASS B SHARES
 ===============================
 
 
-(A)  Each Class B shareholder is entitled to a certificate in a form permitted under Delaware law representing his or her Class B share or shares, which shall meet the following requirements:
+A  Each Class B shareholder is entitled to a certificate in a form permitted under Delaware law representing his or her Class B share or shares, which shall meet the following requirements:
 
  
      (i) The certificate for each Class B shareholder’s share or shares shall be in such form as prescribed by the Board of Directors. Certificates shall be signed by the officers or agents designated by the Board of Directors when issued; 
@@ -93,5 +93,5 @@ CERTIFICATES FOR CLASS B SHARES
      (v)  The certificate or notice shall set forth the full text of any restrictions prescribed conspicuously on the face or back of the certificate or notice.
 
 
-(B) In case of the loss, destruction, or mutilation of a share certificate or notice a duplicate may be issued in its place, upon such terms as the Board of Directors may 
+B In case of the loss, destruction, or mutilation of a share certificate or notice a duplicate may be issued in its place, upon such terms as the Board of Directors may 
 prescribe. 
