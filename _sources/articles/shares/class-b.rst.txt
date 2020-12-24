@@ -15,10 +15,10 @@ ELIGIBILITY
 Class B Membership shall include  Class A Shareholders who have been allocated or have committed themselves to purchase Class B Common Shares and all Investors, including outsiders and employees who are not Class A Shareholders, who have committed themselves to purchase a share or shares of Class B Common Stock (“Class B Common Share”), at a price determined by the [Board].
 
 
-(A) Shareholders’ status will become effective as of the date of Class B Common Share allocation or purchase in accordance with the terms of these Bylaws. 
+(A)  Shareholders’ status will become effective as of the date of Class B Common Share allocation or purchase in accordance with the terms of these Bylaws. 
 
 
-(B) For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
+(B)  For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
 
 
 CLASS B COMMON STOCK 
@@ -47,7 +47,7 @@ VOTING RIGHTS OF CLASS B SHAREHOLDERS
 (B)  Each purchased Class B share is entitled to one (1) vote. 
  
  
-(C)  Class B shareholders may not vote on any decisions regarding mergers, acquisitions, consolidations or dissolutions, as provided for in the Certificate of Incorporation and Article II, Part A, Section 2.5 of these Bylaws, except as may be required by law.
+(C)  Class B shareholders may not vote on any decisions regarding mergers, acquisitions, consolidations or dissolutions, as provided for in the Certificate of Incorporation and  Article II, Part A, Section 2.5 of these Bylaws, except as may be required by law.
  
  
 (D)  Class B shareholders may, unless otherwise provided for in these Bylaws or the Certificate of Incorporation: (1) elect a minority of members of the Board of Directors, as provided for in Article II A, Section 2.6 of these Bylaws; (2) vote on amendments or other changes to the Corporation’s governing documents; and (3) submit and vote on shareholder resolutions at annual stockholder meetings.
