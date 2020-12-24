@@ -74,6 +74,7 @@ No Class B share, or interest therein, may be sold, assigned, or otherwise trans
 CERTIFICATES FOR CLASS B SHARES
 ===============================
 
+
 (A)  Each Class B shareholder is entitled to a certificate in a form permitted under Delaware law representing his or her Class B share or shares, which shall meet the following requirements:
 
  
