@@ -4,7 +4,7 @@ CLASS C SHARES
 ##############
 
 Class C (Preferred) Shareholders
------------------------------------
+################################
 
 ----------------
 ELIGIBILITY
