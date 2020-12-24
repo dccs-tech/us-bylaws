@@ -4,18 +4,25 @@ CLASS B SHARES
 ##############
 
 Part (B) CLASS B- COMMON STOCK HELD BY EMPLOYEES AND INVESTORS; CLASS B  VOTING RIGHTS & SHARED VOTING POWER of CLASS A AND B
+==============================================================================================================================
+
 
 ELIGIBILITY
 =========================
 
+
 Class B Membership shall include  Class A Shareholders who have been allocated or have committed themselves to purchase Class B Common Shares and all Investors, including outsiders and employees who are not Class A Shareholders, who have committed themselves to purchase a share or shares of Class B Common Stock (“Class B Common Share”), at a price determined by the [Board].
+
 
 (a) Shareholders’ status will become effective as of the date of Class B Common Share allocation or purchase in accordance with the terms of these Bylaws. 
 
+
 (b) For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
+
 
 CLASS B COMMON STOCK 
 =======================
+
  
 (a)  The corporation shall have a single class of common voting stock, known as “Class B Common Stock.”  Class A Shareholders, employees who are not Class A shareholders, and outside investors may acquire such shares, as provided for in these Bylaws.
 
@@ -27,9 +34,11 @@ CLASS B COMMON STOCK
 
  
 (d) Neither the Board nor its designees may discriminate on the basis of race, age, sex, sexual orientation, religion, pregnancy or maternity, or nation origin when considering a person for share ownership.
- 
+
+
 VOTING RIGHTS OF CLASS B SHAREHOLDERS
 =====================================
+
  
 (a)   Subject to section 2.5 Voting Rights of Class A Shareholders, and unless otherwise stated in these Bylaws or the Certificate of Incorporation, a majority of votes from both Class A and Class B, voting separately, is required to pass any amendment to the Corporation’s governing documents or decisions affecting the operation of Corporation.
  
@@ -65,6 +74,7 @@ CERTIFICATES FOR CLASS B SHARES
 ===============================
 
 (1)  Each Class B shareholder is entitled to a certificate in a form permitted under Delaware law representing his or her Class B share or shares, which shall meet the following requirements:
+
  
      (i) The certificate for each Class B shareholder’s share or shares shall be in such form as prescribed by the Board of Directors. Certificates shall be signed by the officers or agents designated by the Board of Directors when issued; 
      
