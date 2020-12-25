@@ -1,4 +1,4 @@
-.. board_directors
+..  board_directors
 ###################
 BOARD OF DIRECTORS
 ###################
