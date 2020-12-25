@@ -1,7 +1,8 @@
 ..  board_directors
-####################
+###################
 BOARD OF DIRECTORS
-####################
+###################
+
 
 POWERS
 -------
@@ -150,6 +151,3 @@ CORPORATE GOVERNANCE COMPLIANCE
 --------------------------------
 
 Without otherwise limiting the powers of the Board set forth in these bylaws, and provided that shares of capital stock of the corporation are listed for trading on either the NASDAQ Stock Market (“NASDAQ”) or the New York Stock Exchange (“NYSE”), or other trading venue, the Corporation, its directors, officers and committees shall comply with the Sarabnes Oaxley Act of 2002 and any corporate governance rules and requirements of the NASDAQ or the NYSE, or other trading venue as applicable. 
-
- 
- 
