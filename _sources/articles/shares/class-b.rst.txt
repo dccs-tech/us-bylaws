@@ -23,7 +23,7 @@ Class B Membership shall include  Class A Shareholders who have been allocated o
 
 .. _shares_class_b_common_stock:
 ----------------------
-CLASS B COMMON STOCK
+CLASS B COMMON STOCK 
 ----------------------
 
 
@@ -73,7 +73,7 @@ Each shareholder may terminate their ownership and redeem their share upon leavi
 
 .. _shares_class_b_transfer_restrictions:
 ----------------------
-TRANSFER RESTRICTIONS
+TRANSFER RESTRICTIONS. 
 ----------------------
  
 No Class B share, or interest therein, may be sold, assigned, or otherwise transferred, voluntarily or involuntarily, by operation of law or otherwise, except for a transfer to the Corporation, unless otherwise approved by the Board.
@@ -81,7 +81,7 @@ No Class B share, or interest therein, may be sold, assigned, or otherwise trans
 
 .. _shares_class_b_certificates:
 -------------------------------
-CERTIFICATES FOR CLASS B SHARES
+CERTIFICATES FOR CLASS B SHARES. 
 -------------------------------
 
 
