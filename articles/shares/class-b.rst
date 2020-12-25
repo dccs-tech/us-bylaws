@@ -7,20 +7,20 @@ CLASS B SHARES
 Part (B) CLASS B- COMMON STOCK HELD BY EMPLOYEES AND INVESTORS; CLASS B  VOTING RIGHTS & SHARED VOTING POWER of CLASS A AND B
 ==============================================================================================================================
 
-
+--------------------------------
 ELIGIBILITY
 --------------------------------
 
 Class B Membership shall include  Class A Shareholders who have been allocated or have committed themselves to purchase Class B Common Shares and all Investors, including outsiders and employees who are not Class A Shareholders, who have committed themselves to purchase a share or shares of Class B Common Stock (“Class B Common Share”), at a price determined by the [Board].
 
 
-   (A)  Shareholders’ status will become effective as of the date of Class B Common Share allocation or purchase in accordance with the terms of these Bylaws. 
+  (A)  Shareholders’ status will become effective as of the date of Class B Common Share allocation or purchase in accordance with the terms of these Bylaws. 
 
 
-   (B)  For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
+  (B)  For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
 
 
-
+---------------------------------
 CLASS B COMMON STOCK 
 ---------------------------------
 
@@ -37,7 +37,7 @@ CLASS B COMMON STOCK
 (D)  Neither the Board nor its designees may discriminate on the basis of race, age, sex, sexual orientation, religion, pregnancy or maternity, or nation origin when considering a person for share ownership.
 
 
-
+-------------------------------------
 VOTING RIGHTS OF CLASS B SHAREHOLDERS
 -------------------------------------
 
@@ -60,21 +60,21 @@ VOTING RIGHTS OF CLASS B SHAREHOLDERS
 (F)  Should a resolution seek to convert the Corporation into a different entity be put forth at a shareholder meeting, Class B shareholders shall not be entitled to vote in favor of or against adoption of the resolution; however, all shareholders shall have notice of the special meeting at which conversion is being considered. 
 
 
-
+--------------------------------
 TERMINATION
 --------------------------------
 
 Each shareholder may terminate their ownership and redeem their share upon leaving with interest.
 
 
-
+------------------------------------------
 TRANSFER RESTRICTIONS. 
 ------------------------------------------
  
 No Class B share, or interest therein, may be sold, assigned, or otherwise transferred, voluntarily or involuntarily, by operation of law or otherwise, except for a transfer to the Corporation, unless otherwise approved by the Board.
 
 
-
+---------------------------------
 CERTIFICATES FOR CLASS B SHARES. 
 ---------------------------------
 
