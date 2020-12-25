@@ -12,7 +12,6 @@ Part (B) CLASS B- COMMON STOCK HELD BY EMPLOYEES AND INVESTORS; CLASS B  VOTING 
 ELIGIBILITY
 -------------------
 
-
 Class B Membership shall include  Class A Shareholders who have been allocated or have committed themselves to purchase Class B Common Shares and all Investors, including outsiders and employees who are not Class A Shareholders, who have committed themselves to purchase a share or shares of Class B Common Stock (“Class B Common Share”), at a price determined by the [Board].
 
 
@@ -21,12 +20,13 @@ Class B Membership shall include  Class A Shareholders who have been allocated o
 
 (B)  For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
 
+
 .. _shares_class_b:
 ----------------------
 CLASS B COMMON STOCK
 ----------------------
 
- 
+
 (A)  The corporation shall have a single class of common voting stock, known as “Class B Common Stock.”  Class A Shareholders, employees who are not Class A shareholders, and outside investors may acquire such shares, as provided for in these Bylaws.
 
  
@@ -69,12 +69,14 @@ TERMINATION
 
 Each shareholder may terminate their ownership and redeem their share upon leaving with interest.
 
+
 .. _shares_class_b:
 ----------------------
 TRANSFER RESTRICTIONS
 ----------------------
  
 No Class B share, or interest therein, may be sold, assigned, or otherwise transferred, voluntarily or involuntarily, by operation of law or otherwise, except for a transfer to the Corporation, unless otherwise approved by the Board.
+
 
 .. _shares_class_b:
 -------------------------------
