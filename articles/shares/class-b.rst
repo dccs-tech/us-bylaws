@@ -23,7 +23,7 @@ Class B Membership shall include  Class A Shareholders who have been allocated o
 
 .. _shares_class_b:
 ----------------------
-CLASS B COMMON STOCK 
+CLASS B COMMON STOCK
 ----------------------
 
  
