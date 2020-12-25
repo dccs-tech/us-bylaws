@@ -51,8 +51,8 @@ NOTICE OF SHAREHOLDERS’ MEETINGS
 
 (E)   This provision applies to any notice that is required under any provision of the Delaware Code, the Certificate of Incorporation, any shareholder’s certificate, or these Bylaws. Notice to a person entitled to receive the notice shall not be required under the following conditions: 
 
-     (i) The corporation has mailed a notice of two (2) consecutive annual meetings, or 	dividends or interest on securities during a twelve (12) month period,  and 
-     (ii) The mailing or mailing were addressed to the person entitled to receive notice at the person’s address as shown on the records of the corporation and has or have been returned undeliverable. 
+      (i) The corporation has mailed a notice of two (2) consecutive annual meetings, or dividends or interest on securities during a twelve (12) month period,  and 
+      (ii) The mailing or mailing were addressed to the person entitled to receive notice at the person’s address as shown on the records of the corporation and has or have been returned undeliverable. 
     
     
 (F)  Any action or meeting which is taken or held without notice to a person described in subsection 3.4 (e) shall have the same force and effect as if such notice had been duly given. In the event that the action taken by the corporation requires the filing of a certificate with the Secretary of State of Delaware, the certificate need not state that notice was not given to persons to whom notice was not required to be given pursuant to Section 230(b) of the Delaware Code. 
@@ -83,7 +83,7 @@ MANNER OF GIVING NOTICE; AFFIDAVIT OF NOTICE
      (i)  by facsimile telecommunication, 
      (ii) by electronic mail 
      (iii) by a posting on an electronic network provided that the Corporation provides a separate notice to the shareholder of the specific posting. Such transmission shall only be effective upon the later of such posting and the transmission of such separate notice; and 
-    (iv) by any other form of electronic transmission, when delivered to the shareholder at the shareholder’s approved electronic address. 
+     (iv) by any other form of electronic transmission, when delivered to the shareholder at the shareholder’s approved electronic address. 
     
     
 (E)  Any consent to receive notice by electronic transmission will be deemed revoked if: 
