@@ -27,7 +27,7 @@ NUMBER
 
 (D)  At the first annual meeting of the Members, where there is more than one Member, 50% of the Directors shall be elected to two-year terms, and 50% of the Directors shall be elected to one-year terms. At each successive annual meeting, terms of the Directors elected to a seat where a term is  expiring shall be for two years.  If the number of Board  Members increases, the Board shall designate the initial term of each new position to be one or two years so as to assure that at least 50% of the board directors will remain on the board for another year at the time of the annual meeting.
 
-(E)  No reduction of th authorized number of directors shall have the effect of removing any director before that director’s term of office expires.
+(E)  No reduction of the authorized number of directors shall have the effect of removing any director before that director’s term of office expires.
 
 
 ELECTION QUALIFICATION AND TERM 
