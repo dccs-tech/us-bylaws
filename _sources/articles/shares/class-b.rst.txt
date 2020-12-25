@@ -7,7 +7,7 @@ CLASS B SHARES
 Part (B) CLASS B- COMMON STOCK HELD BY EMPLOYEES AND INVESTORS; CLASS B  VOTING RIGHTS & SHARED VOTING POWER of CLASS A AND B
 ==============================================================================================================================
 
-.. _shares_class_b:
+.. _shares_class_b_eligibility:
 --------------
 ELIGIBILITY
 -------------
@@ -21,7 +21,7 @@ Class B Membership shall include  Class A Shareholders who have been allocated o
     (B)  For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
 
 
-.. _shares_class_b:
+.. _shares_class_b_common_stock:
 ----------------------
 CLASS B COMMON STOCK
 ----------------------
@@ -39,7 +39,7 @@ CLASS B COMMON STOCK
 (D)  Neither the Board nor its designees may discriminate on the basis of race, age, sex, sexual orientation, religion, pregnancy or maternity, or nation origin when considering a person for share ownership.
 
 
-.. _shares_class_b:
+.. _shares_class_b_voting_rights:
 -------------------------------------
 VOTING RIGHTS OF CLASS B SHAREHOLDERS
 -------------------------------------
@@ -63,7 +63,7 @@ VOTING RIGHTS OF CLASS B SHAREHOLDERS
 (F)  Should a resolution seek to convert the Corporation into a different entity be put forth at a shareholder meeting, Class B shareholders shall not be entitled to vote in favor of or against adoption of the resolution; however, all shareholders shall have notice of the special meeting at which conversion is being considered. 
 
 
-.. _shares_class_b:
+.. _shares_class_b_termination:
 ------------
 TERMINATION
 ------------
@@ -71,7 +71,7 @@ TERMINATION
 Each shareholder may terminate their ownership and redeem their share upon leaving with interest.
 
 
-.. _shares_class_b:
+.. _shares_class_b_transfer_restrictions:
 ----------------------
 TRANSFER RESTRICTIONS
 ----------------------
@@ -79,7 +79,7 @@ TRANSFER RESTRICTIONS
 No Class B share, or interest therein, may be sold, assigned, or otherwise transferred, voluntarily or involuntarily, by operation of law or otherwise, except for a transfer to the Corporation, unless otherwise approved by the Board.
 
 
-.. _shares_class_b:
+.. _shares_class_b_certificates:
 -------------------------------
 CERTIFICATES FOR CLASS B SHARES
 -------------------------------
