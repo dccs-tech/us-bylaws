@@ -15,10 +15,10 @@ ELIGIBILITY
 Class B Membership shall include  Class A Shareholders who have been allocated or have committed themselves to purchase Class B Common Shares and all Investors, including outsiders and employees who are not Class A Shareholders, who have committed themselves to purchase a share or shares of Class B Common Stock (“Class B Common Share”), at a price determined by the [Board].
 
 
-    (A)  Shareholders’ status will become effective as of the date of Class B Common Share allocation or purchase in accordance with the terms of these Bylaws. 
+   (A)  Shareholders’ status will become effective as of the date of Class B Common Share allocation or purchase in accordance with the terms of these Bylaws. 
 
 
-    (B)  For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
+   (B)  For no consideration, the Corporation will allocate at least one share of Class B shares to Class A Shareholders for each calendar year the employee has worked for the Corporation. This provision does not prohibit other discretionary gifts of stock or allocations to an employee or incoming hires. 
 
 
 .. _shares_class_b_common_stock:
