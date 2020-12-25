@@ -11,7 +11,7 @@ DCCS US Bylaws
     articles/shares/index
     articles/meetings
     articles/voting
-    articles/board of directors
+    articles/board_of_directors
     articles/committees
 
 .. toctree::
