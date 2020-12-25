@@ -104,8 +104,9 @@ WAIVER of NOTICE
 
 (B)  A waiver shall be deemed equivalent to notice whether given before or after the time stated therein, is effective if it is
 
-     (i)a written waiver signed by the person entitled to notice, or 
-     (ii) a waiver by electronic transmission by the person entitled to notice
+     (i)   a written waiver signed by the person entitled to notice, or 
+     
+     (ii)  a waiver by electronic transmission by the person entitled to notice
     
 (C)  Attendance of a person at a meeting shall constitute a waiver of notice of such meeting, except when the person attends a meeting solely for the express purpose of objecting, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened. 
 
