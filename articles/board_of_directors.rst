@@ -1,7 +1,8 @@
-..  board_directors
+..  board_of_directors_directors
 ###################
 BOARD OF DIRECTORS
 ###################
+
 
 POWERS
 ----------
