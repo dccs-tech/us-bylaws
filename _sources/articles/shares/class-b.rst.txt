@@ -8,9 +8,9 @@ Part (B) CLASS B- COMMON STOCK HELD BY EMPLOYEES AND INVESTORS; CLASS B  VOTING 
 ==============================================================================================================================
 
 .. _shares_class_b:
--------------------
+--------------
 ELIGIBILITY
--------------------
+-------------
 
 Class B Membership shall include  Class A Shareholders who have been allocated or have committed themselves to purchase Class B Common Shares and all Investors, including outsiders and employees who are not Class A Shareholders, who have committed themselves to purchase a share or shares of Class B Common Stock (“Class B Common Share”), at a price determined by the [Board].
 
@@ -64,7 +64,7 @@ VOTING RIGHTS OF CLASS B SHAREHOLDERS
 
 
 .. _shares_class_b:
--------------
+------------
 TERMINATION
 ------------
 
