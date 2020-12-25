@@ -1,7 +1,7 @@
-..  board_of_directors_directors
-###################
+.. board_of_directors
+######################
 BOARD OF DIRECTORS
-###################
+######################
 
 
 POWERS
@@ -43,9 +43,9 @@ ELECTION QUALIFICATION AND TERM
  
  (E)  All elections of directors shall be by written ballot, unless otherwise provided in the Certificate. If authorized by the Board, the requirement of a written ballot may be satisfied by a ballot submitted by electronic transmission, provided that any such electronic transmission must be either set forth or be submitted with information from which it can be determined that the electronic transmission was authorized. 
  
- 
- RESIGNATION AND FILLING OF VACANCIES 
- -------------------------------------
+
+RESIGNATION AND FILLING OF VACANCIES 
+--------------------------------------
  
  (A)  Any  director may resign at any time upon notice given in writing or by electronic transmission to the Corporation. A resignation is effective when the resignation is delivered unless the resignation specifies a later effective date or an effective date determined upon the happening of an event or events.
  
@@ -125,20 +125,20 @@ BOARD ACTION BY WRITTEN CONSENT IN LIEU OF MEETINGS AND CONSENT TO ACTION EFFECT
 (D)  After an action is taken, the consent or consents relating thereto shall be filed with the minutes of the proceedings of the board of directors, or the committee thereof, in the same paper or electronic form as the minutes are maintained.
  
  
- ADJOURNED MEETING; NOTICE
- --------------------------
+ADJOURNED MEETING; NOTICE
+--------------------------
  
  If a quorum is not present at any meeting of the Board of Directors or a Committee of the Board,   then a majority of the directors or committee members present may adjourn the meeting from time to time until a quorum is present.
  
  
- FEES AND COMPENSATION OF DIRECTORS
- -----------------------------------
+FEES AND COMPENSATION OF DIRECTORS
+-----------------------------------
  
  The Board of Directors shall have the authority to fix the compensation of directors in accordance with section 6.5 of these bylaws. 
  
  
- REMOVAL OF DIRECTORS
- ---------------------
+REMOVAL OF DIRECTORS
+---------------------
  
 (A)   The holders of a majority of the shares then entitled to vote at an election of directors may remove any director or the entire board of directors with or without cause, subject to provisions in subsections (b) and (c). 
  
