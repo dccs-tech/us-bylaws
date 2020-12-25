@@ -99,7 +99,5 @@ CERTIFICATES FOR CLASS B SHARES
  
      (V)  The certificate or notice shall set forth the full text of any restrictions prescribed conspicuously on the face or back of the certificate or notice.
 
-
 (B)  In case of the loss, destruction, or mutilation of a share certificate or notice a duplicate may be issued in its place, upon such terms as the Board of Directors may 
 prescribe. 
-
