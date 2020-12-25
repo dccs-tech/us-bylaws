@@ -65,7 +65,7 @@ VOTING RIGHTS OF CLASS B SHAREHOLDERS
 .. _shares_class_b:
 -------------
 TERMINATION
--------------
+------------
 
 Each shareholder may terminate their ownership and redeem their share upon leaving with interest.
 
