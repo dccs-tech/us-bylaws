@@ -51,10 +51,9 @@ NOTICE OF SHAREHOLDERS’ MEETINGS
 
 (E)   This provision applies to any notice that is required under any provision of the Delaware Code, the Certificate of Incorporation, any shareholder’s certificate, or these Bylaws. Notice to a person entitled to receive the notice shall not be required under the following conditions: 
 
-      (i) The corporation has mailed a notice of two (2) consecutive annual meetings, or dividends or interest on securities during a twelve (12) month period,  and 
-      (ii) The mailing or mailing were addressed to the person entitled to receive notice at the person’s address as shown on the records of the corporation and has or have been returned undeliverable. 
-    
-    
+       (i) The corporation has mailed a notice of two (2) consecutive annual meetings, or dividends or interest on securities during a twelve (12) month period,  and 
+       (ii) The mailing or mailing were addressed to the person entitled to receive notice at the person’s address as shown on the records of the corporation and has or have been returned undeliverable. 
+     
 (F)  Any action or meeting which is taken or held without notice to a person described in subsection 3.4 (e) shall have the same force and effect as if such notice had been duly given. In the event that the action taken by the corporation requires the filing of a certificate with the Secretary of State of Delaware, the certificate need not state that notice was not given to persons to whom notice was not required to be given pursuant to Section 230(b) of the Delaware Code. 
 
 (G)  The requirement that notice be given to a person described in subsection 3.4(e) shall be reinstated it the person delivers a written notice to the Corporation setting forth such person’s then current address. 
@@ -72,8 +71,7 @@ MANNER OF GIVING NOTICE; AFFIDAVIT OF NOTICE
      (i) if mailed, when deposited in the United States mail, postage prepaid, directed to the stockholder at his or her address as it appears on the corporation’s records; 
      (ii) if electronically transmitted, as provided in subsection (d)  of this section; or 
      (iii) otherwise, when delivered. 
-    
-    
+       
 (B)  An affidavit of the secretary, an assistant secretary, a transfer agent, or any other agent of the corporation that the notice has been given in accordance with these bylaws shall, in the absence of fraud, be prima facie evidence of the facts stated therein. 
 
 (C)  Notice may be waived in accordance with section 5.9 of these bylaws. 
@@ -82,10 +80,9 @@ MANNER OF GIVING NOTICE; AFFIDAVIT OF NOTICE
 
      (i)  by facsimile telecommunication, 
      (ii) by electronic mail 
-     (iii) by a posting on an electronic network provided that the Corporation provides a separate notice to the shareholder of the specific posting. Such transmission shall only be effective upon the later of such posting and the transmission of such separate notice; and 
+     (iii) by a posting on an electronic network provided that the Corporation provides a separate notice to the shareholder of the specific posting. Such transmission shall only be effective upon the later of such posting and the transmission of such separate notice;and 
      (iv) by any other form of electronic transmission, when delivered to the shareholder at the shareholder’s approved electronic address. 
-    
-    
+     
 (E)  Any consent to receive notice by electronic transmission will be deemed revoked if: 
 
      (i) The corporation is unable to deliver by electronic transmission two consecutive notices that the Corporation in accordance with the shareholder’s consent; and 
