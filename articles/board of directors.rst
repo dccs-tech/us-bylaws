@@ -1,11 +1,11 @@
-..  board_directors
+.. board_directors
 ###################
 BOARD OF DIRECTORS
 ###################
 
 
 POWERS
--------
+-------------------
 
 (A)  The Cooperative’s business and affairs shall be managed by or under the direction of the Board of Directors, all of whom shall be natural persons, appointed in accordance with these bylaws and subject to any limitations in the Bylaws or in the Certificate of Incorporation.
 
@@ -17,7 +17,7 @@ POWERS
 
 
 NUMBER
--------
+--------------------
 
 (A)  The initial Board of Directors shall consist of at least (one) natural person. 
 
