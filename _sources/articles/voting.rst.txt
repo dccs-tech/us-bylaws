@@ -32,6 +32,7 @@ RECORD DATE FOR STOCKHOLDER NOTICE; VOTING; GIVING CONSENTS
 (B)  At the record date fixed by the Board, the Corporation may determine if the shareholder is entitled to notice of or to vote at any meeting of shareholders or any adjournment thereof, or entitled to receive payment of any dividend or other distribution or allotment of any rights, or entitled to exercise any rights in respect of any change, conversion or exchange of shares or for the purpose of any other lawful action.
 
 (C)  If the Board does not fix a record date in accordance with these bylaws and applicable law, the record date shall be as follows: 
+
      (i) The record time and date for determining the shareholders who are entitled to notice of a meeting of shareholders or entitled to vote at a meeting of shareholders shall be at the close of business on the day before the day before notice is given. If notice is waived, the record time and date for determining the shareholders who are entitled to attend a meeting of shareholders or entitled to vote at a meeting of shareholders shall be  at the close of business on the day before the day on which the meeting is held. 
      (ii) The record date for determining shareholders for any other purpose shall be at the close of business on the day on which the Board adopts the resolution relating thereto. 
     
