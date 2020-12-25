@@ -3,7 +3,6 @@
 BOARD OF DIRECTORS
 ####################
 
-
 POWERS
 -------
 
