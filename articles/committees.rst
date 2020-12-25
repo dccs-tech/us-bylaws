@@ -1,4 +1,4 @@
-.. committees_committees
+.. committees
 ############
 COMMITTEES
 ###########
