@@ -33,23 +33,23 @@ NUMBER
 ELECTION QUALIFICATION AND TERM 
 --------------------------------
 
- (A)  At the first annual meeting of the Corporation where there is more than one director, 50% of the Directors shall be elected to two-year terms, and 50% of the Directors shall be elected to one-year terms. At each successive annual meeting, terms of the Directors shall be elected for two-year terms.  In the event that the number of Board  members increases, the Board shall designate the initial term of a new position to be one or two years so as to assure that at least 50% of the board directors will remain on the board for another year at the time of the annual meeting. A successive term for such new position shall be two-years. Except as provided in section 5.4 and 5.13, each director shall shall hold office until such director’s successor is elected and qualified, whichever is later.
+(A)  At the first annual meeting of the Corporation where there is more than one director, 50% of the Directors shall be elected to two-year terms, and 50% of the Directors shall be elected to one-year terms. At each successive annual meeting, terms of the Directors shall be elected for two-year terms.  In the event that the number of Board  members increases, the Board shall designate the initial term of a new position to be one or two years so as to assure that at least 50% of the board directors will remain on the board for another year at the time of the annual meeting. A successive term for such new position shall be two-years. Except as provided in section 5.4 and 5.13, each director shall shall hold office until such director’s successor is elected and qualified, whichever is later.
  
- (B)  Except for positions requiring an exclusive vote by Class A, the election of a director shall require the affirmative vote of Class A and Class B voting separately.
+(B)  Except for positions requiring an exclusive vote by Class A, the election of a director shall require the affirmative vote of Class A and Class B voting separately.
  
- (C)  The election of the Board of Directors shall comply with the voting rights specified for Class A Shareholders in Article II, section 2.6 of these bylaws. In all cases, a majority of the resulting composition of the board from any election shall have been elected by Class A Shareholders.
+(C)  The election of the Board of Directors shall comply with the voting rights specified for Class A Shareholders in Article II, section 2.6 of these bylaws. In all cases, a majority of the resulting composition of the board from any election shall have been elected by Class A Shareholders.
  
- (D)  These bylaws may be amended in accordance with section 2.12 by a majority of votes from both Class A and Class B, voting separately, to provide qualifications for board members.  Unless otherwise provided in these bylaws, the directors need not be shareholders.
+(D)  These bylaws may be amended in accordance with section 2.12 by a majority of votes from both Class A and Class B, voting separately, to provide qualifications for board members.  Unless otherwise provided in these bylaws, the directors need not be shareholders.
  
- (E)  All elections of directors shall be by written ballot, unless otherwise provided in the Certificate. If authorized by the Board, the requirement of a written ballot may be satisfied by a ballot submitted by electronic transmission, provided that any such electronic transmission must be either set forth or be submitted with information from which it can be determined that the electronic transmission was authorized. 
+(E)  All elections of directors shall be by written ballot, unless otherwise provided in the Certificate. If authorized by the Board, the requirement of a written ballot may be satisfied by a ballot submitted by electronic transmission, provided that any such electronic transmission must be either set forth or be submitted with information from which it can be determined that the electronic transmission was authorized. 
  
 
 RESIGNATION AND FILLING OF VACANCIES 
 --------------------------------------
+
+(A)  Any  director may resign at any time upon notice given in writing or by electronic transmission to the Corporation. A resignation is effective when the resignation is delivered unless the resignation specifies a later effective date or an effective date determined upon the happening of an event or events.
  
- (A)  Any  director may resign at any time upon notice given in writing or by electronic transmission to the Corporation. A resignation is effective when the resignation is delivered unless the resignation specifies a later effective date or an effective date determined upon the happening of an event or events.
- 
- (B)  The Board may fill vacancies on the board resulting from the following: any increase in the authorized number of directors; the death of a director; the resignation, retirement, disqualification, or removal from office of a director; or other cause.  The Board’s actions under this section are subject to the following provisions:    
+(B)  The Board may fill vacancies on the board resulting from the following: any increase in the authorized number of directors; the death of a director; the resignation, retirement, disqualification, or removal from office of a director; or other cause.  The Board’s actions under this section are subject to the following provisions:    
  
      (i)  If a vacancy is for a position that would require being held by a Class A Shareholder or would require an exclusive election by Class A Shareholders, Class A Shareholders may act by written consent to elect the director  in accordance with 8 Delaware Code §211(b). 
      (ii) Any vote by the Board to fill the vacancies shall be by the affirmative vote of a majority of the remaining directors then in office, even though less than a quorum of the Board, or by a sole remaining director. 
@@ -128,13 +128,13 @@ BOARD ACTION BY WRITTEN CONSENT IN LIEU OF MEETINGS AND CONSENT TO ACTION EFFECT
 ADJOURNED MEETING; NOTICE
 --------------------------
  
- If a quorum is not present at any meeting of the Board of Directors or a Committee of the Board,   then a majority of the directors or committee members present may adjourn the meeting from time to time until a quorum is present.
+If a quorum is not present at any meeting of the Board of Directors or a Committee of the Board,   then a majority of the directors or committee members present may adjourn the meeting from time to time until a quorum is present.
  
  
 FEES AND COMPENSATION OF DIRECTORS
 -----------------------------------
  
- The Board of Directors shall have the authority to fix the compensation of directors in accordance with section 6.5 of these bylaws. 
+The Board of Directors shall have the authority to fix the compensation of directors in accordance with section 6.5 of these bylaws. 
  
  
 REMOVAL OF DIRECTORS
