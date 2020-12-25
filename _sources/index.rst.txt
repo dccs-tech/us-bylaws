@@ -10,6 +10,7 @@ DCCS US Bylaws
     articles/offices
     articles/shares/index
     articles/meetings
+    articles/voting
 
 .. toctree::
     :maxdepth: 1
