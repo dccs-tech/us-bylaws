@@ -21,7 +21,7 @@ The Board shall establish a Recommendation  Committee composed of Class A Shareh
     
     (ii)    to recommend nominees for election to Class A Shareholder status consistent with criteria approved by the Board. 
     
-    (iii)to make recommendations to the board for nominees for the appointment of officers of the Corporation, except for the appointment of Division Executives and Division Representatives as provided for in section 6.3; and 
+    (iii)   to make recommendations to the board for nominees for the appointment of officers of the Corporation, except for the appointment of Division Executives and Division Representatives as provided for in section 6.3; and 
     
     (iv)    such other duties and responsibilities as the Board may confer upon the committee.
     
