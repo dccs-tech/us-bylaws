@@ -127,5 +127,20 @@ MEETINGS AND ACTION OF COMMITTEES
     
         (ii) special meetings of committees may also be called by Board resolution; and 
     
-        (iii) notice of special meetings of committees shall also be given to all alternate members, who shall have the right to attend all meetings of the committee. The Board may adopt rules for the government of any committee not inconsistent with the provisions of these bylaws. 
+        (iii) notice of special meetings of committees shall also be given to all alternate members, who shall have the right to attend all meetings of the committee. The Board may adopt rules for the government of any committee not inconsistent with the provisions of these bylaws.
+        
+        
+Executive Council
+------------------
+
+The Board of Directors shall establish an Executive Council, in accordance with this section.
+
+(A)  The members of the Executive Council shall include all Division Executives. The Board shall appoint the Chief Executive Officer from among the members of the Executive Council.  who shall be led by the Chief Executive Officer shall lead the   Executive Council to serve as a “first among equals.”
+
+(B)  The purpose of the Executive Council shall be the following:
+
+    (i) To serve as a collegiate problem-solving and planning body, bringing together various constituencies of the Corporation to focus on matters affecting the Corporation ;
     
+    (ii) to establish internal procedures that assure an independent and impartial review of issues as they arise and achieve resolutions to grievances through diplomatic and equitable means; 
+    
+    (iii) To carry out other duties, and responsibilities as the Board may confer by resolution on the Executive Council.  
