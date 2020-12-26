@@ -25,7 +25,7 @@ COMMITTEES TO ADDRESS CLASS A MEMBERSHIP ISSUES
       
       (iv)  such other duties and responsibilities as the Board may confer upon the committee.
     
-    In the event the Recommendation  Committee does not approve an employee for inclusion as a Class A Shareholder, the employee may appeal the decision to the Appellate Committee. 
+        In the event the Recommendation  Committee does not approve an employee for inclusion as a Class A Shareholder, the employee may appeal the decision to the Appellate Committee. 
 
 
 (B)  Appellate Committee 
@@ -114,7 +114,7 @@ MEETINGS AND ACTION OF COMMITTEES
         (iii) Action without a meeting; and 
         (iv) Adjournment and notice of adjournment. 
         
-    with such changes in the context of those bylaws as are necessary to substitute the committee and its members for the Board and its members. 
+     with such changes in the context of those bylaws as are necessary to substitute the committee and its members for the Board and its members. 
 
 (B)  Notwithstanding the foregoing:
 
