@@ -134,7 +134,6 @@ Executive Council
 ------------------
 
 The Board of Directors shall establish an Executive Council, in accordance with this section.
-
 (A)  The members of the Executive Council shall include all Division Executives. The Board shall appoint the Chief Executive Officer from among the members of the Executive Council.  who shall be led by the Chief Executive Officer shall lead the   Executive Council to serve as a “first among equals.”
 
 (B)  The purpose of the Executive Council shall be the following:
@@ -144,3 +143,4 @@ The Board of Directors shall establish an Executive Council, in accordance with 
     (ii) to establish internal procedures that assure an independent and impartial review of issues as they arise and achieve resolutions to grievances through diplomatic and equitable means; 
     
     (iii) To carry out other duties, and responsibilities as the Board may confer by resolution on the Executive Council.  
+
