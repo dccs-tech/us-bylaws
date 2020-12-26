@@ -26,3 +26,9 @@ In the event the Recommendation  Committee does not approve an employee for incl
 
 
 (B)  Appellate Committee 
+
+The Board shall establish an Appellate Committee composed of Class A members who shall be elected by Class A Shareholders at an annual or special meeting.  The principal duties will be as follows:
+
+    (i) The Appellate Committee shall hear the appeals of any Class A Shareholder who has been terminated involuntarily as an employee of the Corporation. 
+    (ii)  The Appellate Committee shall also hear the appeal of any employee whose application to become a Class A Shareholder has been denied. In such cases, the committee has a right to determine if said individual’s employment shall be retained, dismissed or if the individual may continue with the Corporation as a consultant.
+    
