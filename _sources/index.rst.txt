@@ -13,6 +13,7 @@ DCCS US Bylaws
     articles/voting
     articles/board_of_directors
     articles/committees
+    articles/officers
 
 .. toctree::
     :maxdepth: 1
