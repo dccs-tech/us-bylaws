@@ -15,7 +15,7 @@ COMMITTEES TO ADDRESS CLASS A MEMBERSHIP ISSUES
 
 (A)  Recommendation Committee 
 
-    The Board shall establish a Recommendation  Committee composed of Class A Shareholders. The Recommendation  Committee’s principal duties will be as follows: 
+The Board shall establish a Recommendation  Committee composed of Class A Shareholders. The Recommendation  Committee’s principal duties will be as follows: 
 
     (i)  to assist the Board in establishing criteria for qualifying employees to become Class A Shareholders;  
       
@@ -24,13 +24,11 @@ COMMITTEES TO ADDRESS CLASS A MEMBERSHIP ISSUES
     (iii)  to make recommendations to the board for nominees for the appointment of officers of the Corporation, except for the appointment of Division Executives and Division Representatives as provided for in section 6.3; and   
       
     (iv)  such other duties and responsibilities as the Board may confer upon the committee.
-    
-     In the event the Recommendation Committee does not approve an employee for inclusion as a Class A Shareholder, the employee may appeal the decision to the Appellate Committee. 
-
+       
 
 (B)  Appellate Committee 
 
-    The Board shall establish an Appellate Committee composed of Class A members who shall be elected by Class A Shareholders at an annual or special meeting. The principal duties will be as follows:
+The Board shall establish an Appellate Committee composed of Class A members who shall be elected by Class A Shareholders at an annual or special meeting. The principal duties will be as follows:
 
      (i) The Appellate Committee shall hear the appeals of any Class A Shareholder who has been terminated involuntarily as an employee of the Corporation. 
       
