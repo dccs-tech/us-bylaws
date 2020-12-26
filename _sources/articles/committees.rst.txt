@@ -105,27 +105,27 @@ MEETINGS AND ACTION OF COMMITTEES
 
 (A)  Meetings and actions of committees shall be governed by, held, and taken in accordance with the provisions of: 
 
-    (i)	Place of meetings and meetings by telephone
+        (i)	Place of meetings and meetings by telephone
     
-    (ii) Regular meetings
+        (ii) Regular meetings
     
-    (iii) Special meetings and notice
+        (iii) Special meetings and notice
     
-        (i) Quorum
+            (i) Quorum
         
-        (ii) Waiver of notice
+            (ii) Waiver of notice
         
-        (iii) Action without a meeting; and
+            (iii) Action without a meeting; and
         
-        (iv) Adjournment and notice of adjournment. 
+            (iv) Adjournment and notice of adjournment. 
  
  with such changes in the context of those bylaws as are necessary to substitute the committee and its members for the Board and its members. 
 
 (B)  Notwithstanding the foregoing:
 
-    (i) the time of regular meetings of committees may be determined either by Board or Committee resolution
+        (i) the time of regular meetings of committees may be determined either by Board or Committee resolution
     
-    (ii) special meetings of committees may also be called by Board resolution; and 
+        (ii) special meetings of committees may also be called by Board resolution; and 
     
-    (iii) notice of special meetings of committees shall also be given to all alternate members, who shall have the right to attend all meetings of the committee. The Board may adopt rules for the government of any committee not inconsistent with the provisions of these bylaws. 
+        (iii) notice of special meetings of committees shall also be given to all alternate members, who shall have the right to attend all meetings of the committee. The Board may adopt rules for the government of any committee not inconsistent with the provisions of these bylaws. 
     
