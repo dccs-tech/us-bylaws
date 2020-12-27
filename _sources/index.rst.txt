@@ -14,6 +14,7 @@ DCCS US Bylaws
     articles/board_of_directors
     articles/committees
     articles/officers
+    articles/records_and_reports
 
 .. toctree::
     :maxdepth: 1
