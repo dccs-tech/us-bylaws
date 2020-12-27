@@ -15,7 +15,7 @@ COMMITTEES TO ADDRESS CLASS A MEMBERSHIP ISSUES
 
 (A)  Recommendation Committee 
 
-    The Board shall establish a Recommendation  Committee composed of Class A Shareholders. The Recommendation  Committee’s principal duties will be as follows: 
+     The Board shall establish a Recommendation  Committee composed of Class A Shareholders. The Recommendation  Committee’s principal duties will be as follows: 
 
     (i) to assist the Board in establishing criteria for qualifying employees to become Class A Shareholders;  
     (ii) to recommend nominees for election to Class A Shareholder status consistent with criteria approved by the Board.    
