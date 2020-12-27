@@ -18,6 +18,7 @@ DCCS US Bylaws
     articles/general_matters
     articles/indemnification
     articles/amendments
+    articles/dissolution
 
 .. toctree::
     :maxdepth: 1
