@@ -16,6 +16,7 @@ DCCS US Bylaws
     articles/officers
     articles/records_and_reports
     articles/general_matters
+    articles/indemnification
 
 .. toctree::
     :maxdepth: 1
