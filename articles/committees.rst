@@ -35,7 +35,6 @@ COMMITTEES TO ADDRESS CLASS A MEMBERSHIP ISSUES
 
         (ii) The Appellate Committee shall also hear the appeal of any employee whose application to become a Class A Shareholder has been denied. In such cases, the committee has a right to determine if said individual’s employment shall be retained, dismissed or if the individual may continue with the Corporation as a consultant.
 
-
 (C)   The Board may establish one or more additional committees to be composed solely of Class A Shareholders; additionally, The Board may establish other committees that are not composed solely of class A shareholders, except as otherwise established by these bylaws.
 
 
