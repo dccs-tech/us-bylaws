@@ -29,15 +29,15 @@ DISSOLUTION GENERALLY
 
 (D)  If dissolution is authorized in accordance with this section, a certificate of dissolution shall be executed, acknowledged and filed, and shall become effective, in accordance with 8 Delaware Code §103. Such certificate of dissolution shall set forth:
 
-    (i) The name of the corporation;  
+    (A) The name of the corporation;  
     
-    (ii) The date dissolution was authorized;  
+    (B) The date dissolution was authorized;  
     
-    (iii) That the dissolution has been authorized by the board of directors and shareholders of the Corporation who are entitled to vote on dissolution, or that the dissolution has been authorized by all of the shareholders of the corporation entitled to vote on a dissolution;
+    (C) That the dissolution has been authorized by the board of directors and shareholders of the Corporation who are entitled to vote on dissolution, or that the dissolution has been authorized by all of the shareholders of the corporation entitled to vote on a dissolution;
     
-    (iv) The names and addresses of the directors and officers of the corporation; and
+    (D) The names and addresses of the directors and officers of the corporation; and
     
-    (v) The date of filing of the corporation’s original certificate of incorporation with the Secretary of State. 
+    (E) The date of filing of the corporation’s original certificate of incorporation with the Secretary of State. 
     
     
 CORPORATION ASSETS
@@ -45,11 +45,11 @@ CORPORATION ASSETS
 
 Upon dissolution, the remaining collective assets after payment of creditors shall be either:
 
-    (A) Divided up amongst all past and present Class A members per labor patronage (the divisible reserve);
+(A) Divided up amongst all past and present Class A members per labor patronage (the divisible reserve);
     
-    (B) Paid out to a charity or the holder of the “trust share” (the indivisible reserves); or
+(B) Paid out to a charity or the holder of the “trust share” (the indivisible reserves); or
     
-    (C)  Some combination of the two. 
+(C)  Some combination of the two. 
     
     
     
