@@ -51,7 +51,7 @@ REMOVAL AND RESIGNATION OF OFFICERS
 VACANCIES IN OFFICES
 ---------------------
 
-Any vacancy occurring in any office of the corporation shall be filled by the Board or, or if so empowered to fill the position, by the Chief Executive Officer.  Unless the Board of Directors finds that there is an immediate need to fill the position, the procedures for the appointment of the officer in section 7.3 of these bylaws shall apply.  
+Any vacancy occurring in any office of the corporation shall be filled by the Board, or if so empowered to fill the position, by the Chief Executive Officer.  Unless the Board of Directors finds that there is an immediate need to fill the position, the procedures for the appointment of the officer in section 7.3 of these bylaws shall apply.  
 
 
 THE BOARD CHAIR
@@ -63,6 +63,7 @@ THE BOARD CHAIR
 
 (C) The provisions in subsection (b) of this section shall not apply if there is no Chief Executive Officer or Division  Executive of the Corporation as a result of the death, resignation or removal of such officer.  In such case, the Board may appoint the then  Board Chair to serve in an interim capacity as the Chief Executive Officer of the Corporation until the Board is able to appoint a new Chief Executive Officer.  While serving in such interim capacity, the Board Chair shall have 
 the powers and duties prescribed in Section 7.7 of these bylaws. 
+
 
 
 CHIEF EXECUTIVE OFFICER 
