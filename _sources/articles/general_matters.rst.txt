@@ -37,9 +37,9 @@ SPECIAL DESIGNATIONS ON CERTIFICATES
 
 (B)  The voting powers, designations, preferences, rights and qualifications, limitations or restrictions of any class or series of a class as provided for in these bylaws or an amendment to these bylaws shall be:
 
-    (i) stated in the certificate of incorporation or in any amendment to the certificate of incorporation; or 
+    (A) stated in the certificate of incorporation or in any amendment to the certificate of incorporation; or 
     
-    (ii)  stated in the resolution or resolutions providing for the issue of such shares adopted by the board of directors pursuant to authority expressly vested in it by the provisions of its certificate of incorporation. 
+    (B) stated in the resolution or resolutions providing for the issue of such shares adopted by the board of directors pursuant to authority expressly vested in it by the provisions of its certificate of incorporation. 
     
 (C)  The voting powers, designations, preferences, relative participating, optional or other rights and qualifications, limitations or restrictions of any class or series of shares shall be clearly and expressly set forth in full or summarized on the face or back of the certificate that the corporation issues to represent a class or series of stock; 
 
@@ -71,7 +71,7 @@ DIVIDENDS
 FISCAL YEAR
 ------------
 
-The fiscal year of th corporation shall be fixed by resolution of the Board and may be changed by the Board. 
+The fiscal year of the corporation shall be fixed by resolution of the Board and may be changed by the Board. 
 
 
 SEAL
