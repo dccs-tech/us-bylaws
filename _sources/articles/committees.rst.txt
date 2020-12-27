@@ -137,8 +137,8 @@ The Board of Directors shall establish an Executive Council, in accordance with 
 
 (B)  The purpose of the Executive Council shall be the following:
 
-    (i) To serve as a collegiate problem-solving and planning body, bringing together various constituencies of the Corporation to focus on matters affecting the Corporation;
+    (A) To serve as a collegiate problem-solving and planning body, bringing together various constituencies of the Corporation to focus on matters affecting the Corporation;
     
-    (ii) to establish internal procedures that assure an independent and impartial review of issues as they arise and achieve resolutions to grievances through diplomatic and equitable means; 
+    (B) to establish internal procedures that assure an independent and impartial review of issues as they arise and achieve resolutions to grievances through diplomatic and equitable means; 
     
-    (iii) To carry out other duties, and responsibilities as the Board may confer by resolution on the Executive Council.  
+    (C) To carry out other duties, and responsibilities as the Board may confer by resolution on the Executive Council.  
