@@ -128,7 +128,7 @@ MEETINGS AND ACTION OF COMMITTEES
         (iii) notice of special meetings of committees shall also be given to all alternate members, who shall have the right to attend all meetings of the committee. The Board may adopt rules for the government of any committee not inconsistent with the provisions of these bylaws.
         
         
-Executive Council
+EXECUTIVE COUNCIL
 ------------------
 
 The Board of Directors shall establish an Executive Council, in accordance with this section.
