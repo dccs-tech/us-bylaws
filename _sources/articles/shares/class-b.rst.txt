@@ -5,7 +5,7 @@ CLASS B SHARES
 
 
 Part (B) CLASS B- COMMON STOCK HELD BY EMPLOYEES AND INVESTORS; CLASS B  VOTING RIGHTS & SHARED VOTING POWER of CLASS A AND B
-==============================================================================================================================
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 ELIGIBILITY
