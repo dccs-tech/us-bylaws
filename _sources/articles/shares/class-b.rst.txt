@@ -35,7 +35,7 @@ CLASS B COMMON STOCK
 VOTING RIGHTS OF CLASS B SHAREHOLDERS
 -------------------------------------
 
-(A)   Subject to [section 2.5 Voting Rights of Class A Shareholders]"(#voting-rights-of-class-a-shareholders)", and unless otherwise stated in these Bylaws or the Certificate of Incorporation, a majority of votes from both Class A and Class B, voting separately, is required to pass any amendment to the Corporation’s governing documents or decisions affecting the operation of Corporation.
+(A)   Subject to section 2.5 Voting Rights of Class A Shareholders, and unless otherwise stated in these Bylaws or the Certificate of Incorporation, a majority of votes from both Class A and Class B, voting separately, is required to pass any amendment to the Corporation’s governing documents or decisions affecting the operation of Corporation.
  
 (B)  Each purchased Class B share is entitled to one (1) vote. 
  
