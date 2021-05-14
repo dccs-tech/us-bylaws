@@ -4,10 +4,10 @@ DCCS is structured as a hybrid capital / cooperative corporation that seeks to b
 
   - economically and environmentally sustainable
   - employee, customer, supplier, and investor friendly
-  - democratic and flatt*(er)* lattice organization
+  - democratic and flatt(er) lattice organization
   - scalable to public market *(IPO and beyond...)*
  
-These bylaws reflect that purpose.
+These bylaws reflect that purpose.  We want to innovate, not just in product, but how businesses are designed and maintained.
 
 ## Acknowledgements 
 
