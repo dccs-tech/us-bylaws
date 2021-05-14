@@ -15,27 +15,27 @@ These bylaws reflect that purpose.
 
 *Contributors:*  Bold names indicate those who have contributed substantially to the drafting and/or research of the DCCS bylaws. The others participated in connection with classroom activities or discussion between September 2019 and May 2021.  
 
-Lara Bollinger
-**Michael Campbell**
-Clayton Cruse
-Bradley Cunningham
-Sesia Cruz
-Brianna Dick
-Kelvin Garcia
-Janis Hsing
-Justice Haynes
-Khadija Kahn
-Jennifer Keane
-**Nana Yaw Osei**
-**Erica Ozoeneh**
-Aditi Ramesh
-Kyle Rush
-**Adam Sadick**
-Imelda Sarnowiec
-**Anthony Scerbo**
-**Tevye Sugarman**
-**Eric Swanson**
-**Cindy Vasquez**
+ - Lara Bollinger
+ - **Michael Campbell**
+ - Clayton Cruse
+ - Bradley Cunningham
+ - Sesia Cruz
+ - Brianna Dick
+ - Kelvin Garcia
+ - Janis Hsing
+ - Justice Haynes
+ - Khadija Kahn
+ - Jennifer Keane
+ - **Nana Yaw Osei**
+ - **Erica Ozoeneh**
+ - Aditi Ramesh
+ - Kyle Rush
+ - **Adam Sadick**
+ - Imelda Sarnowiec
+ - **Anthony Scerbo**
+ - **Tevye Sugarman**
+ - **Eric Swanson**
+ - **Cindy Vasquez**
 
 Under the direction of **Professor Louise Howells** and **Professor Etienne Toussaint**
  
