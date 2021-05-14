@@ -25,6 +25,7 @@ DCCS US Bylaws
     :caption: Links
 
     GitHub project <https://github.com/dccs-tech/us-bylaws/>
+    README.md
 
 **********
 Navigation
