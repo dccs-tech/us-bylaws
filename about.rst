@@ -1,6 +1,6 @@
 .. about
 ########################
-ABOUT
+About
 ########################
 
 The official DCCS Bylaws are used internally in management of DCCS but are provided on this site without the intention to substitution for, and do not constitute, legal advice. Instead, the content is made available for general informational purposes only if startups or organizations wish to fork or adopt our bylaws. Users should contact an attorney to obtain advice with respect to any particular legal matter.
@@ -14,7 +14,7 @@ DCCS is structured as a hybrid capital / cooperative corporation that seeks to b
  
 These bylaws reflect that purpose.  We want to innovate, not just in product, but how businesses are designed and maintained.
 
-ACKNOWLEDGEMENTS
+Acknowledgements
 ----------------
 
 **University of the District of Columbia David A. Clarke School of Law, Community Development Law Clinic**
