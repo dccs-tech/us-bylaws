@@ -13,7 +13,7 @@ These bylaws reflect that purpose.
 
 **University of the District of Columbia David A. Clarke School of Law, Community Development Law Clinic**
 
-*Contributors:*  Bold names indicate those who have contributed substantially to the drafting and/or research of the DCCS bylaws. The others participated in connection with classroom activities or discussion between September 2019 and May 2021.  
+*Contributors:*  Bold names indicate those who have contributed substantially to the drafting and/or research of the DCCS bylaws. The others participated in connection with classroom activities or discussion between **September 2019** and **May 2021**.  
 
  - Lara Bollinger
  - **Michael Campbell**
