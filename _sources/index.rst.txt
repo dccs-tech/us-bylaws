@@ -26,10 +26,3 @@ DCCS US Bylaws
 
     about
     GitHub project <https://github.com/dccs-tech/us-bylaws/>
-
-**********
-Navigation
-**********
-
-* :ref:`genindex`
-* :ref:`search`
