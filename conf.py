@@ -14,8 +14,8 @@ extensions = [
 source_suffix = '.rst'
 master_doc = 'index'
 
-project = 'DCCS US Draft Bylaws'
-copyright = '2020, DCCS Corporation'
+project = 'DCCS US Corporation Bylaws'
+copyright = '2021, DCCS Corporation'
 author = 'dccs.tech'
 
 language = 'en'
