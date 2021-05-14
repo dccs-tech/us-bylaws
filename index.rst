@@ -24,8 +24,8 @@ DCCS US Bylaws
     :maxdepth: 1
     :caption: Links
 
+    about
     GitHub project <https://github.com/dccs-tech/us-bylaws/>
-    README.md
 
 **********
 Navigation
